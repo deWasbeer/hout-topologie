@@ -24,7 +24,7 @@ Once you have filled in these cells you can press **build**.
 
 A good start to pkay around with the dimensions of the cupboard are the following:
 
-![Example input cupboard](./WebApp front.png)
+![Example input cupboard](WebApp front.png)
 
 You can open or hide the cupboard doors using the drop down menu on the right.
 
