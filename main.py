@@ -36,6 +36,7 @@ def main():
     os.makedirs(path) 
     
     plotter.build_scene()
+    
     wait=True
     while cfg.reset_loop == True:
         #print('reloop')

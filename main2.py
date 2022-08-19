@@ -14,9 +14,10 @@ from latex import opencv as crop
 import json
 
 def main():
-    parent_dir = '/home/windhoos/hout-topologie/users'
+    parent_dir = os.path.abspath('')
+    user_dir = os.path.join('users', parent_dir)
     directory = '16-08-2022-12-28-07-John-Doe'
-    path = os.path.join(parent_dir, directory)
+    path = os.path.join(user_dir, directory)
     path2 = os.path.join(path, 'assignment.txt')
     #lang = 'NL'
     
