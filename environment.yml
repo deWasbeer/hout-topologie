@@ -1,5 +1,8 @@
-numpy
-pillow
-pandas
-vpython
-jupyterlab-vpython
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - pillow
+    - pandas
+    - vpython
+    - jupyterlab-vpython
