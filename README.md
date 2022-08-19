@@ -64,5 +64,5 @@ The programm will be automatically generate your pdf assembly manual and place i
 
 Good luck building your cupboard!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deWasbeer/hout-topologie/HEAD?labpath=main.ipynb)
+[![Binder][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deWasbeer/hout-topologie/HEAD?labpath=main%20ipynb)
  
