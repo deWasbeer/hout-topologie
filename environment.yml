@@ -6,3 +6,4 @@ dependencies:
     - pandas
     - vpython
     - jupyterlab-vpython
+    - voila
