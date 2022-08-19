@@ -22,7 +22,7 @@ Furthermore, the length of the plank needs to be at least the length of the larg
 
 Once you have filled in these cells you can press **build**.
 
-A good start to pkay around with the dimensions of the cupboard are the following:
+A good start to play around with the dimensions of the cupboard are the following:
 
 ![Example input cupboard](https://github.com/deWasbeer/hout-topologie/blob/main/WebAppfront.png)
 
