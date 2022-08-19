@@ -8,8 +8,8 @@ Created on Tue Jan 11 22:42:49 2022
 
 from math import radians
 import numpy as np
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+#import matplotlib.pyplot as plt
+#from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 #from onderdelen import config as cfg
 
 class plank:
