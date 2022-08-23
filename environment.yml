@@ -4,6 +4,6 @@ dependencies:
     - numpy
     - pillow
     - pandas
-    - vpython
-    - jupyterlab-vpython
     - voila
+    - vpython==7.6.3
+    - jupyterlab-vpython==3.1.3
