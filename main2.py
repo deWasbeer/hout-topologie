@@ -11,7 +11,7 @@ from latex import arrow, stuklijst
 import time
 import os
 from latex import opencv as crop
-import json
+#import json
 
 def main():
     parent_dir = os.path.abspath('')
