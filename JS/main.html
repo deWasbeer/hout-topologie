@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hout topografie optimisation</title>
+</head>
+
+<body>
+    <button id="build" type="button">build</button>
+    <button id="reset" type="reset">reset</button>
+    <button id="buy" type="buy">buy</button>
+
+    <script>
+        const build = document.getElementById("build");
+
+        build.addEventListener("click", function(e){
+            const name = prompt("What is your name ?")
+
+            document.body.innerHTML = "<h1>Welcome, " + name + "! </h1>";
+        })
+    </script>
+
+</body>
+</html>
